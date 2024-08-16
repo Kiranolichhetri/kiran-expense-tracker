@@ -13,7 +13,7 @@ if (strlen($_SESSION['detsuid']==0)) {
 <html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <!--<title> Responsiive Admin Dashboard | CodingLab </title>-->
+    
     <link rel="stylesheet" href="css/style.css">
    
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
